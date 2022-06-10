@@ -19,3 +19,7 @@ sharing-your-book
 publishing
 pages
 metadata-for-sharing
+chapter-1-about-the-guideline
+usage
+render-book
+preview-book
