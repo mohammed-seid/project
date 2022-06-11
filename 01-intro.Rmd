@@ -1,11 +1,13 @@
 # Introduction
 
-All chapters start with a first-level heading followed by your chapter title, like the line above. There should be only one first-level heading (`#`) per .Rmd file.
+## Background
 
-## A section
+The idea that the success of consulting firms depends solely on producing good proposals and stand out from the crowd to win a particular project is losing ground.Today’s challenging business highlights the necessity of increasing sophistication and skill in the processes of project execution and in managing the sustained consultant-client relationship after a project sign-off. Maintaining sustainable client relationship has two major advantages. First, clients will have confidence to provide future projects; and second, they help by being a testimony for prospective clients who might need references from reliable sources regarding successful previous project undertakings. 
 
-All chapter sections start with a second-level (`##`) or higher heading followed by your section title, like the sections above and below here. You can have as many as you want within a chapter.
+According to the literature, sustained customer relationship requires an outstanding customer experience, which, in turn, requires a more tailored services, if possible, surpassing the client expectations in many dimensions. In other words, delivering a consultancy project on time and in expected quality is simply the basic requirement from the client, and may not necessarily lead to sustained relationship. For the latter to happen, a project manager should execute the projects on planned time, budget and overall service quality that exceeds client expectations. This requires, at the minimum, effective project planning, efficient resource use, meaningful client engagement, proactive leadership, excellent technical capacity, effective project management and communication, and great team harmony. The project manager, naturally, should understand what it takes to be there, and have all the commitments and dedications to make a project a success. Besides, the overall project management process has to be guided by a project implementation guideline and well-defined standards, which support the project managers to have a clear understanding of the major steps to be followed, major activities to be executed, and deliverables to be submitted in each of the project implementation phases. This guideline is, therefore, intended to serve the above objectives and purposes. 
 
-### An unnumbered section {-}
+## Purpose of the guideline
 
-Chapters and sections are numbered by default. To un-number a heading, add a `{.unnumbered}` or the shorter `{-}` at the end of the heading, like in this section.
+The purpose of this project management guideline is to provide a manual to all Frontier*i* staffs who are and will be involved in project management, covering everything that happens during the life of the project from the time that the project contract is signed through to closure of the project. The guideline will help project managers and coordinators to maximize their potential for timely and quality implementation of their projects. It will also provide a hands-on skill for newly assigned project managers who may not be very familiar with or have prior experience in consultancy project management practices. While the guideline provides some basic standards to be followed during project implementation, it should not be taken slavishly in all circumstances. Thus, regardless of what is being suggested in this guideline, all project managers should account for any peculiarities of a particular project, and contextualize the activities and standards accordingly.
+
+
